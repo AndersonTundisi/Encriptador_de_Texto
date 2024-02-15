@@ -32,7 +32,11 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga est
 
 ## Autor
 
-Este projeto foi desenvolvido por [Anderson Tundisi](https://github.com/AndersonTundisi).
+Este projeto foi desenvolvido por [Anderson tundisi](https://github.com/AndersonTundisi).
+Você também pode me encontrar no LinkedIn e GitHub:
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/andersontundisi/)
+[<img src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://github.com/AndersonTundisi)
 
 ## Licença
 
