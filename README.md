@@ -34,7 +34,7 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, siga est
 
 Este projeto foi desenvolvido por [Anderson tundisi](https://github.com/AndersonTundisi).
 
-Você também pode me encontrar no LinkedIn e GitHub:
+Você também pode me encontrar pelo 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/andersontundisi/)
 [<img src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://github.com/AndersonTundisi)
 
